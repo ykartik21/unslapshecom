@@ -1,0 +1,71 @@
+.header{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #ffc107;
+    border-bottom: 2px solid black;
+}
+.logo-container{
+    margin-left: 3vw;
+    background: linear-gradient(90deg,#fe8464,#fe6e9a 50%,#fe8464);
+    width: 250px;
+    height: 70%;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 150%;
+    min-width: 200px;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-container:hover{
+    background: linear-gradient(90deg,#33c8c1,#119bd2 50%,#33c8c1);
+    color: black;
+}
+.logo-container a{
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+}
+.cart-container{
+    margin-right: 3vw;
+    width: 50px;
+    height: 50%;
+    border-radius: 10px;
+    background: linear-gradient(90deg,#fe8464,#fe6e9a 50%,#fe8464);
+    border: 2px solid black;
+    font-size:100%;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cart-container:hover{    
+    background: linear-gradient(90deg,#33c8c1,#119bd2 50%,#33c8c1);
+    color: black;
+}
+.cartlength{
+    width: 60%;
+    height: 50%;
+    border-radius: 50%;
+    background: inherit;
+    position: absolute;
+    top:-30%;
+    right: -45%;
+    border: 2px solid black;
+    color: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 90%;
+}

@@ -1,0 +1,8 @@
+.home{
+    width: 100%;
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto ;
+    justify-content: center;
+    background: linear-gradient(90deg,#33c8c1,#119bd2 50%,#33c8c1); 
+}     
