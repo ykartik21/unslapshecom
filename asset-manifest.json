@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unslapshecom/static/css/main.94a0cb17.css",
+    "main.js": "/unslapshecom/static/js/main.e2ad8f82.js",
+    "index.html": "/unslapshecom/index.html",
+    "main.94a0cb17.css.map": "/unslapshecom/static/css/main.94a0cb17.css.map",
+    "main.e2ad8f82.js.map": "/unslapshecom/static/js/main.e2ad8f82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a0cb17.css",
+    "static/js/main.e2ad8f82.js"
+  ]
+}
